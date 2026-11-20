@@ -9,6 +9,8 @@ https://1.org.vn/vmttv hoặc https://263.org.vn/vmttv
 https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv
 https://iptv-org.github.io/iptv/languages/vie.m3u
 https://iptv-org.github.io/iptv/countries/vn.m3u
+https://raw.githubusercontent.com/tuointbidv-jpg/IPTV/refs/heads/main/coban.m3u
+https://raw.githubusercontent.com/tuointbidv-jpg/IPTV/refs/heads/main/iptv.m3u
 Link IPTV Của FPT
 https://tv.close.vn/http.m3u
 Link Lịch Phát Sóng
