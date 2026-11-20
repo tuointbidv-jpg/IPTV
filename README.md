@@ -3,7 +3,7 @@ Các Kênh cập nhật liên tục
 Xem được trên mọi thiết bị Smart TV Máy Tính Ipad Điện Thoại Smart Box
 Xem Hơn 200 Kênh VTV VTVCab HTV SCTV THVL HBO Radio
 Các Link IPTV M3U được sử dụng xem được
-Bạn có copy các playlist này vào IPTV M3U IPTV,...
+Bạn có copy các playlist này vào IPTV M3U IPTV Live Channel VLC Tunvio,...
 https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u
 https://1.org.vn/vmttv hoặc https://263.org.vn/vmttv
 https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv
