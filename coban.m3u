@@ -55,6 +55,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=12
 https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/Tkjs3C5.png" group-title="HTV",HTVC+
 https://freem3u.xyz/api/live/play.m3u8?vid=132
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png" group-title="Địa Phương",An Ninh TV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="Địa Phương",Quốc Phòng VN
@@ -74,7 +75,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" tvg-logo="https://i.imgur.com/hSdSUqx.png" group-title="Địa Phương",Vĩnh Long 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/Pfq3ix9.png" group-title="Địa Phương",Tuyên Quang
-https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
+https://vmttv.dpdns.org/tv360/?id=tuyen-quang
 #EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/RUJmK5D.png" group-title="Địa Phương",Cao Bằng
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="Địa Phương",Lạng Sơn
@@ -110,7 +111,7 @@ http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.postimg.cc/HxP9pG9N/nghean.png" group-title="Địa Phương",Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://i.imgur.com/sESKlNO.png" group-title="Địa Phương",Hà Tĩnh
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="quangtri" tvg-logo="https://i.imgur.com/6qOelwt.png" group-title="Địa Phương",Quảng Trị
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 #EXTINF:-1 tvg-id="hue" tvg-logo="https://i.imgur.com/bVWyWC7.png" group-title="Địa Phương",Huế
@@ -125,7 +126,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://i.postimg.cc/2qn7JYr6/KH.png" group-title="Địa Phương",Khánh Hòa
 https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
-#EXTINF:-1 tvg-id="khanhhoa1" tvg-logo="https://i.postimg.cc/14vcbJhC/KH1.png" group-title="Địa Phương",Khánh Hòa 1
+#EXTINF:-1 tvg-id="khanhhoa1" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1_KhanhHoa.png" group-title="Địa Phương",Khánh Hòa 1
 https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://i.postimg.cc/grHBjV9t/Gialai.png" group-title="Địa Phương",Gia Lai
 https://tv.gialaitv.vn/tv.m3u8
@@ -138,9 +139,9 @@ https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
 #EXTINF:-1 tvg-id="tayninh1" tvg-logo="https://i.imgur.com/HFm3hbC.png" group-title="Địa Phương",Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" tvg-logo="https://i.postimg.cc/HJN6GzyV/DN1.png" group-title="Địa Phương",Đồng Nai 1
-https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://i.postimg.cc/Mf75Q8r8/DN2.png" group-title="Địa Phương",Đồng Nai 2
-https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png",Đồng Nai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
@@ -149,10 +150,12 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa Phương",Đồng Tháp 2
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang1" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Địa Phương",An Giang 1
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTINF:-1 tvg-id="angiang2" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Địa Phương",An Giang 2
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Địa Phương",An Giang 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png" group-title="Địa Phương",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
@@ -173,11 +176,11 @@ https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-
 #EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 tvg-id="vov4tn" group-title="Radio" tvg-logo="https://adminmedia.kythuatvov.vn/uploads/images/channels/659b09371df0b442c6efa4b78e6c27b1.png", VOV4 Tây Nguyên
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist_w762538826.m3u8
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://adminmedia.kythuatvov.vn/uploads/images/channels/6eee74c6cd7a6f676e693494a267b930.png", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp", VOV Giao thông Hồ Chí Minh
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 #EXTINF:-1 tvg-id="voh999" group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
