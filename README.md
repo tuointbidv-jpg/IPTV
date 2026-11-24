@@ -17,6 +17,8 @@ Link IPTV Của Viettel
 https://film4k.pl/api/m3u/9c9b5d6c11ea2876c2237a462759cf28/playlist.m3u
 Link IPTV cho ae thích xem các kênh của VTV
 https://raw.githubusercontent.com/tuointbidv-jpg/IPTV/refs/heads/main/vtv.m3u
+Link IPTV Xem Thể Thao
+https://thtt.pages.dev/tttt.m3u
 Link Lịch Phát Sóng
 https://epg.io.vn/epg.xml
 https://lichphatsong.io.vn/epg.xml
